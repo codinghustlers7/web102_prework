@@ -1,4 +1,4 @@
-# WEB102 Prework - 
+# WEB102 Prework - Crowdfund Quest
 
 Submitted by: Dagimawi Degu
 
