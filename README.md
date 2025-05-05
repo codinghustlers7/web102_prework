@@ -25,7 +25,7 @@ Here's a walkthrough of implemented features:
 
 <img src='[file:///Users/dagimawi/Downloads/2025-05-05%2001.17.13.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZ5NmdlanV2NWNvOXlwcmF3bDRidjBkZ3U4NWNoNG1samt1OTZvaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TKnY1VmYsUVHmBS6Bm/giphy.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-
+Here is the gif: https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZ5NmdlanV2NWNvOXlwcmF3bDRidjBkZ3U4NWNoNG1samt1OTZvaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TKnY1VmYsUVHmBS6Bm/giphy.gif
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
