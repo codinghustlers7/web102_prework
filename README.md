@@ -1,10 +1,10 @@
 # WEB102 Prework - *Name of App Here*
 
-Submitted by: **Your Name Here**
+Submitted by: Dagimawi Degu
 
 **Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: 3 hours spent in total
 
 ## Required Features
 
@@ -35,7 +35,7 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
-
+One of the main challenges was working with DOM manipulation and ensuring that elements updated dynamically without reloading the page. For example, filtering funded and unfunded games required clearing and repopulating the game cards, which needed careful use of functions like deleteChildElements
 ## License
 
     Copyright [yyyy] [name of copyright owner]
