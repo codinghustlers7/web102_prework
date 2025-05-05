@@ -23,9 +23,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='file:///Users/dagimawi/Downloads/2025-05-05%2001.17.13.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-![2025-05-05 01 17 13](https://github.com/user-attachments/assets/4272520c-bc57-4e7a-b7e4-18a358e09f01)
-![2025-05-05 01 17 13](https://github.com/user-attachments/assets/82519682-9a02-4ae1-86a3-39265c51d87c)
+<img src='[file:///Users/dagimawi/Downloads/2025-05-05%2001.17.13.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZ5NmdlanV2NWNvOXlwcmF3bDRidjBkZ3U4NWNoNG1samt1OTZvaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TKnY1VmYsUVHmBS6Bm/giphy.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 
 <!-- Replace this with whatever GIF tool you used! -->
