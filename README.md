@@ -25,6 +25,7 @@ Here's a walkthrough of implemented features:
 
 <img src='file:///Users/dagimawi/Downloads/2025-05-05%2001.17.13.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 ![2025-05-05 01 17 13](https://github.com/user-attachments/assets/4272520c-bc57-4e7a-b7e4-18a358e09f01)
+![2025-05-05 01 17 13](https://github.com/user-attachments/assets/82519682-9a02-4ae1-86a3-39265c51d87c)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
