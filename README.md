@@ -24,6 +24,8 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 file:///Users/dagimawi/Downloads/2025-05-05%2001.17.13.gif
 <img src='file:///Users/dagimawi/Downloads/2025-05-05%2001.17.13.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![2025-05-05 01 17 13](https://github.com/user-attachments/assets/2b355495-1e83-4335-8488-518d3daf02ec)
+![2025-05-05 01 17 13](https://github.com/user-attachments/assets/0e6b9a04-f21d-410f-b5c3-8e28a0483530)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
